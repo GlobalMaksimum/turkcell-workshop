@@ -40,6 +40,7 @@
 #### b. LSTM Model
 - Glorot Uniform
 - LSTM Encoder & Decoder Parts
+- Dropout
 - RMSProp
 - Predict Mechanism 
 - Kaggle API Submission
