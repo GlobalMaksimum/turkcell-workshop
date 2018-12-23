@@ -44,7 +44,6 @@
 - RMSProp
 - Predict Mechanism 
 - Kaggle API Submission
-- Saving Model
 
 ### 3. Neural Network Bottleneck Features
 - Extract bottleneck features from the trained model for Boosting Methods
