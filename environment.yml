@@ -1,4 +1,4 @@
-name: tf_env
+name: workshop_env
 channels:
   - conda-forge
   - defaults
@@ -6,11 +6,14 @@ dependencies:
   - _py-xgboost-mutex=2.0=cpu_0
   - ca-certificates=2018.11.29=ha4d7672_0
   - certifi=2018.11.29=py36_1000
+  - cython=0.29.2=py36hfc679d8_0
+  - fbprophet=0.3.post2=py36_0
   - grpcio=1.16.0=py36hd60e7a3_0
   - libxgboost=0.80=hfc679d8_1
   - lightgbm=2.2.1=py36hfc679d8_0
   - openssl=1.0.2p=h470a237_1
   - py-xgboost=0.80=py36hfc679d8_1
+  - pystan=2.17.1.0=py36hf8a1672_2
   - python=3.6.6=h5001a0f_3
   - shap=0.26.0=py36h7eb728f_0
   - xgboost=0.80=py36hfc679d8_1
@@ -104,3 +107,4 @@ dependencies:
   - yaml=0.1.7=had09818_2
   - zeromq=4.2.5=hf484d3e_1
   - zlib=1.2.11=h7b6447c_3
+
