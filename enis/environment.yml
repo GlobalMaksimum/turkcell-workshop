@@ -3,13 +3,17 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - _py-xgboost-mutex=2.0=cpu_0
   - ca-certificates=2018.11.29=ha4d7672_0
   - certifi=2018.11.29=py36_1000
   - grpcio=1.16.0=py36hd60e7a3_0
+  - libxgboost=0.80=hfc679d8_1
   - lightgbm=2.2.1=py36hfc679d8_0
   - openssl=1.0.2p=h470a237_1
+  - py-xgboost=0.80=py36hfc679d8_1
   - python=3.6.6=h5001a0f_3
   - shap=0.26.0=py36h7eb728f_0
+  - xgboost=0.80=py36hfc679d8_1
   - _tflow_select=2.3.0=mkl
   - absl-py=0.6.1=py36_0
   - astor=0.7.1=py36_0
